@@ -110,8 +110,11 @@ footer {
 }
 
 
-
-
+/* для кого курс */
+.forwhom h5 {
+  padding: 50px;
+  border: 3px solid var(--color1);
+}
 
 /*color*/
 .color1 {
